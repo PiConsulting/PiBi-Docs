@@ -8,6 +8,8 @@
 
 [Conectores](conectores.md)
 
+[Usuarios](usuarios.md)
+
 [Roles de Seguridad](roles_de_seguridad.md)
 
 [Filtros](filtros.md)
