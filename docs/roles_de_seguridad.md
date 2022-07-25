@@ -6,7 +6,7 @@ Por defecto PiBi crea dos Roles de Seguridad:
 - *Rol de Seguridad Admin*: Es el rol administrador y nos permite acceder a todos los informes de PiBi. Los administradores pueden acceder a informes con o sin RLS configurado en Power BI. 
 - *Rol de Seguridad Ninguno*: Es el rol para acceder a informes que no tengan configurado el RLS en Power BI. 
 
-![roles1](Media/Roles/roles%20defecto.png)
+![roles1](Media/Roles/roles%20defecto.PNG)
 
 Como administradores siempre tenemos asignado el rol *Admin* para todos los informes de PiBi, gracias a la sincronización automática de informes. Con este rol podemos acceder a informes con o sin RLS configurado en Power BI. 
 
