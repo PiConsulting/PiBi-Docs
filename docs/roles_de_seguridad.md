@@ -14,7 +14,7 @@ Como administradores podemos crear roles de seguridad y luego asignarlos a los u
 
 Para crear un nuevo *Rol de seguridad* pulsamos en el botón *Añadir* de la sección *Roles*. 
 
-![roles2](Media/Roles/roles%20a%C3%B1adir.png)
+![roles2](Media/Roles/roles%20agregar.png)
 
 Definimos el nombre del rol que estamos por crear. *Este nombre del rol debe ser el mismo que la configuración RLS del conjunto de datos del informe en Power BI que queremos aplicar.*
 
