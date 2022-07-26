@@ -18,6 +18,10 @@
 
 [Asignaciones](asignaciones.md)
 
+[Usuario Común](usuario_comun.md)
+
+[Registrar una App en Azure y vincularla a Power BI](app_registration.md)
+
 
 ## ¿Qué es PiBi?
 - **Plataforma Web**: PIBI es una plataforma que permite a una empresa incrustar y distribuir informes en un portal para que clientes, proveedores o colaboradores comerciales puedan interactuar y consumir los mismos a demanda. ​
