@@ -8,6 +8,8 @@
 
 [Conectores](conectores.md)
 
+[Informes](informes.md)
+
 [Usuarios](usuarios.md)
 
 [Roles de Seguridad](roles_de_seguridad.md)
