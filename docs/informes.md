@@ -13,7 +13,7 @@ Además, como usuario administrador vamos a poder sincronizar los informes de fo
 Cada vez que se sincronizan los informes (ya sea de forma manual o automática) todos los usuarios administradores de PiBi *son asignados a todos los informes con el rol Admin*. De esta manera los usuarios administradores siempre pueden ver todos los informes de PiBi. 
 
 
-# ¿Qué acciones puedo realizar en la sección de informes? 
+## ¿Qué acciones puedo realizar en la sección de informes? 
 
 Como usuario administrador podemos realizar dos acciones en la sección de informes. Por un lado, podemos visualizar el informe pulsando en el primer
 botón de la columna de *Acciones*.
