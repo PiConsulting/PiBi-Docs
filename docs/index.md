@@ -2,25 +2,16 @@
 
 ## Índice
 
-[Ingresar a PiBi](ingresar_a_pibi.md)
-
-[Roles](roles.md)
-
-[Conectores](conectores.md)
-
-[Informes](informes.md)
-
-[Usuarios](usuarios.md)
-
-[Roles de Seguridad](roles_de_seguridad.md)
-
-[Filtros](filtros.md)
-
-[Asignaciones](asignaciones.md)
-
-[Usuario Común](usuario_comun.md)
-
-[Registrar una App en Azure y vincularla a Power BI](app_registration.md)
+- [Registrar una App en Azure y vincularla a Power BI](app_registration.md)
+- [Roles](roles.md)
+- [Ingresar a PiBi](ingresar_a_pibi.md)
+- [Conectores](conectores.md)
+- [Informes](informes.md)
+- [Usuarios](usuarios.md)
+- [Roles de Seguridad](roles_de_seguridad.md)
+- [Filtros](filtros.md)
+- [Asignaciones](asignaciones.md)
+- [Usuario Común](usuario_comun.md)
 
 
 ## ¿Qué es PiBi?
