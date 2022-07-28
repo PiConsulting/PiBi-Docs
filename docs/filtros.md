@@ -1,3 +1,5 @@
+[Volver](index.md)
+
 # ¿Qué son y cómo configuramos los Filtros? 
 
 En PiBi los *Filtros* son configuraciones de permisos para poder acceder a un informe. Estos filtros los aplicamos al momento de visualizar el informe y están vinculados a las tablas del mismo. 

@@ -1,3 +1,5 @@
+[Volver](index.md)
+
 # ¿Qué son y cómo configuramos los Roles de Seguridad? 
 
 En PiBi los *Roles de Seguridad* son configuraciones de permisos para poder acceder a un informe. Están vinculados al concepto de RLS en Power BI y *deben tener el mismo nombre en PiBi.* 

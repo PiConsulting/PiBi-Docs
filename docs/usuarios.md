@@ -1,3 +1,5 @@
+[Volver](index.md)
+
 # ¿Cómo gestionamos los usuarios en PiBi? 
 
 En PiBi los *Usuarios* son creados y gestionados por los administradores.

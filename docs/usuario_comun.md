@@ -1,3 +1,5 @@
+[Volver](index.md)
+
 # ¿Cómo vemos la lista de informes que nos asignaron? 
 
 Como usuarios de PiBi vamos a poder ver los informes que nos compartan los administradores. Tengamos en cuenta que, si somos un usuario recién registrado, probablemente no veamos ningún informe disponible hasta que un administrador nos de los permisos necesarios. 

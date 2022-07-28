@@ -1,3 +1,5 @@
+[Volver](index.md)
+
 # ¿Cómo nos registramos en PiBi? 
 
 PiBi tiene dos formas de registrarse. Una de ellas es creando un usuario y contraseña para poder ingresar con esos datos. La otra es a través de un registro automático con Google o Microsoft. 

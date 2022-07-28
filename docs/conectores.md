@@ -1,3 +1,5 @@
+[Volver](index.md)
+
 # ¿Qué es un conector en PiBi? 
 
 Un conector es una configuración que nos va a permitir acceder a los reportes de Power BI. En PiBi debemos completar la información del conector para indicar en qué Tenant y grupo de trabajo se encuentran dichos reportes.  

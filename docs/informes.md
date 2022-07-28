@@ -1,3 +1,5 @@
+[Volver](index.md)
+
 # ¿Qué informes muestra PiBi y cómo sincroniza los cambios de Power BI? 
 
 La lista de informes que muestra PiBi son importados desde el grupo de trabajo de Power BI al cual accedemos con el conector configurado. 
