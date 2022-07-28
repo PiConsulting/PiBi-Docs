@@ -8,6 +8,21 @@
 
 [Conectores](conectores.md)
 
+[Informes](informes.md)
+
+[Usuarios](usuarios.md)
+
+[Roles de Seguridad](roles_de_seguridad.md)
+
+[Filtros](filtros.md)
+
+[Asignaciones](asignaciones.md)
+
+[Usuario Común](usuario_comun.md)
+
+[Registrar una App en Azure y vincularla a Power BI](app_registration.md)
+
+
 ## ¿Qué es PiBi?
 - **Plataforma Web**: PIBI es una plataforma que permite a una empresa incrustar y distribuir informes en un portal para que clientes, proveedores o colaboradores comerciales puedan interactuar y consumir los mismos a demanda. ​
 - **Administración de usuario independiente de licencia​**: Independientemente de que sean parte de la empresa o incluso tengan o no una cuenta de Power BI.​
