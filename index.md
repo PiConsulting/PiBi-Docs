@@ -5,6 +5,7 @@ nav_order: 1
 ---
 # Manual de producto
 Les damos la bienvenida al manual de PiBi.
+
 [<img src="assets/images/PiBi-rectangle.png" width="30%"/>](assets/images/PiBi-rectangle.png)
 
 ## ¿Qué es PiBi?
