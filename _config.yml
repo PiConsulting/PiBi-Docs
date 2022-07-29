@@ -6,8 +6,10 @@ nav_sort: case_sensitive
 title: PiBi-Docs
 author: Pi Consulting
 email: info@piconsulting.com.ar
+logo: "/assets/images/PiBi-rectangle.png"
 description: > # this means to ignore newlines until "baseurl:"
-  This is the documentation of PiBi. The PowerBi Embedded easy platform.
+  This is the description of the Github Lab project for Github Page :)
+  Stay tuned to know more about this Lab.
 
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
