@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Conectores"
+nav_order: 5
+---
 [Volver](index.md)
 
 # ¿Qué es un conector en PiBi? 

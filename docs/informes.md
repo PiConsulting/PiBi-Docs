@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Informes"
+nav_order: 6
+---
 [Volver](index.md)
 
 # ¿Qué informes muestra PiBi y cómo sincroniza los cambios de Power BI? 

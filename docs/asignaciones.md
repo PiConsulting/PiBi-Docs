@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Asignaciones"
+nav_order: 10
+---
 [Volver](index.md)
 
 # ¿Qué son y para qué usamos las asignaciones en PiBi? 

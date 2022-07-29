@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Filtros"
+nav_order: 9
+---
 [Volver](index.md)
 
 # ¿Qué son y cómo configuramos los Filtros? 

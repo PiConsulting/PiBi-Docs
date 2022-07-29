@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Usuarios"
+nav_order: 7
+---
 [Volver](index.md)
 
 # ¿Cómo gestionamos los usuarios en PiBi? 

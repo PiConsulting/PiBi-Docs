@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Acceso Usuario Común"
+nav_order: 11
+---
 [Volver](index.md)
 
 # ¿Cómo vemos la lista de informes que nos asignaron? 

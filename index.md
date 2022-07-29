@@ -1,17 +1,22 @@
+---
+layout: default
+title: "Inicio"
+nav_order: 1
+---
 # Manual de producto
 
 ## Índice
 
-- [Registrar una App en Azure y vincularla a Power BI](app_registration.md)
+- [Registrar una App en Azure y vincularla a Power BI](docs/app_registration.md)
 - [Roles](roles.md)
-- [Ingresar a PiBi](ingresar_a_pibi.md)
-- [Conectores](conectores.md)
-- [Informes](informes.md)
-- [Usuarios](usuarios.md)
-- [Roles de Seguridad](roles_de_seguridad.md)
-- [Filtros](filtros.md)
-- [Asignaciones](asignaciones.md)
-- [Usuario Común](usuario_comun.md)
+- [Ingresar a PiBi](docs/ingresar_a_pibi.md)
+- [Conectores](docs/conectores.md)
+- [Informes](docs/informes.md)
+- [Usuarios](docs/usuarios.md)
+- [Roles de Seguridad](docs/roles_de_seguridad.md)
+- [Filtros](docs/filtros.md)
+- [Asignaciones](docs/asignaciones.md)
+- [Usuario Común](docs/usuario_comun.md)
 
 
 ## ¿Qué es PiBi?

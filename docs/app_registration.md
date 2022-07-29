@@ -1,3 +1,9 @@
+---
+layout: default
+title: "App Registration"
+nav_order: 2
+---
+
 [Volver](index.md)
 
 # ¿Cómo crear una App Registration en Azure y vincularla a Power BI? 
