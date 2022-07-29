@@ -4,20 +4,7 @@ title: "Inicio"
 nav_order: 1
 ---
 # Manual de producto
-
-## Índice
-
-- [Registrar una App en Azure y vincularla a Power BI](docs/app_registration.md)
-- [Roles](roles.md)
-- [Ingresar a PiBi](docs/ingresar_a_pibi.md)
-- [Conectores](docs/conectores.md)
-- [Informes](docs/informes.md)
-- [Usuarios](docs/usuarios.md)
-- [Roles de Seguridad](docs/roles_de_seguridad.md)
-- [Filtros](docs/filtros.md)
-- [Asignaciones](docs/asignaciones.md)
-- [Usuario Común](docs/usuario_comun.md)
-
+Les damos la bienvenida al manual de PiBi.
 
 ## ¿Qué es PiBi?
 - **Plataforma Web**: PIBI es una plataforma que permite a una empresa incrustar y distribuir informes en un portal para que clientes, proveedores o colaboradores comerciales puedan interactuar y consumir los mismos a demanda. ​

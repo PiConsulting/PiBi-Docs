@@ -3,7 +3,6 @@ layout: default
 title: "Ingresar a PiBi"
 nav_order: 4
 ---
-[Volver](index.md)
 
 # ¿Cómo nos registramos en PiBi? 
 

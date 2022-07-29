@@ -4,8 +4,6 @@ title: "App Registration"
 nav_order: 2
 ---
 
-[Volver](index.md)
-
 # ¿Cómo crear una App Registration en Azure y vincularla a Power BI? 
 
 En los pasos siguientes vamos a ver como registrar una App en Azure Active Directory la cual nos permitirá que la plataforma de identidad de Microsoft nos provea servicios de autenticación y autorización para PiBi. 

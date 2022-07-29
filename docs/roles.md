@@ -3,7 +3,6 @@ layout: default
 title: "Roles en PiBi"
 nav_order: 3
 ---
-[Volver](index.md)
 
 # ¿Qué Roles de usuarios existen en PiBi? 
 En PiBi existen 3 roles de usuario: OriginAdmin, Admin y BasicUser. Cuando creamos un usuario podremos seleccionar entre las dos últimas opciones, ya que la primera se utiliza solo para el usuario original de PiBi. Detallamos los roles: 

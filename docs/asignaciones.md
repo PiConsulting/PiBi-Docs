@@ -3,8 +3,6 @@ layout: default
 title: "Asignaciones"
 nav_order: 10
 ---
-[Volver](index.md)
-
 # ¿Qué son y para qué usamos las asignaciones en PiBi? 
 
 En PiBi las Asignaciones nos permitirán indicar los permisos de un usuario para acceder a los informes. Vamos a poder configurar asignaciones de roles de seguridad y de filtros. Ambas opciones nos permitirán definir los datos que verán los usuarios en cada informe. 
