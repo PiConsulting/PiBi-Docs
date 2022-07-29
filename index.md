@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Manual de producto
 Les damos la bienvenida al manual de PiBi.
-![pibilogo](assets/images/PiBi-rectangle.png)
+[<img src="assets/images/PiBi-rectangle.png" width="30%"/>](assets/images/PiBi-rectangle.png)
 
 ## ¿Qué es PiBi?
 - **Plataforma Web**: PIBI es una plataforma que permite a una empresa incrustar y distribuir informes en un portal para que clientes, proveedores o colaboradores comerciales puedan interactuar y consumir los mismos a demanda. ​
