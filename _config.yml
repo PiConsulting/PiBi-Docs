@@ -8,8 +8,7 @@ author: Pi Consulting
 email: info@piconsulting.com.ar
 # logo: "/assets/images/PiBi-rectangle.png"
 description: > # this means to ignore newlines until "baseurl:"
-  This is the description of the Github Lab project for Github Page :)
-  Stay tuned to know more about this Lab.
+  PIBI es una plataforma que permite a una empresa incrustar y distribuir informes en un portal para que clientes, proveedores o colaboradores comerciales puedan interactuar y consumir los mismos a demanda. ​
 
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
