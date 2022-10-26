@@ -32,11 +32,11 @@ El valor que se configuró en la asignación de filtro no existe entre las opcio
 La tabla y/o columna del filtro de PIBI no coincide con los valores configurados en el informe de Power BI. El resultado es que no se aplica el filtro en el informe.
 
 
-4. El recurso de Azure Analysis Services se encuentra pausado o no existe
+4. El recurso de Azure Analysis Services se encuentra pausado o fue borrado
 
 ![problemas5](Media/Problemas/AAS_error.png)
 
-Para acceder a los datos de un informe que utilice Azure Analysis Service es necesario tener el recurso encendido. Si el mismo se encuentra pausado o no existe el resultado es un mensaje indicando que no podemos conectarnos al modelo de datos.
+Para acceder a los datos de un informe que utilice Azure Analysis Service es necesario tener el recurso encendido. Si el mismo se encuentra pausado o fue borrado, el resultado es un mensaje indicando que no podemos conectarnos al modelo de datos.
 
 
 
