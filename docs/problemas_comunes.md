@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Solución de problemas"
+title: "Problemas Comunes"
 nav_order: 12
 ---
 
