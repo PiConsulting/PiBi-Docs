@@ -10,7 +10,7 @@ Un conector es una configuración que nos va a permitir acceder a los reportes d
 
 Para validar nuestros permisos de acceso a estos informes podemos elegir entre dos tipos de conexión. 
 
-Uno de ellos se llama Service Principal y consiste en indicarle al conector el *Id de la aplicación* y el *Secret Key*. Estos códigos los obtenemos creando una *App Registration en Azure*. El campo *ObjectId* es el Object Id de Managed Identity del Service Principal y es un campo obligatorio para informes con orígenes de *Azure Analysis Services*.
+Uno de ellos se llama Service Principal y consiste en indicarle al conector el *Id de la aplicación* y el *Secret Key*. Estos códigos los obtenemos creando una *App Registration en Azure*. El campo *ObjectId* es el Object Id de Managed Identity del Service Principal y es un campo no requerido pero si obligatorio para informes con orígenes de *Azure Analysis Services*.
 
 ![conectores1](Media/Conectores/conectores1.png)
 

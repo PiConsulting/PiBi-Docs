@@ -8,13 +8,18 @@ nav_order: 11
 
 Como usuarios de PiBi vamos a poder ver los informes que nos compartan los administradores. Tengamos en cuenta que, si somos un usuario recién registrado, probablemente no veamos ningún informe disponible hasta que un administrador nos de los permisos necesarios. 
 
-En la sección de *Informes* podremos ver la lista de informes con la opción de visualizarlos.  
+
+En la sección de *Informes* podremos ver la lista de áreas de trabajo disponibles para nuestro usuario.  
+
+![usuario1](Media/Usuario%20Comun/Workspaces%20Usuario%20Comun.png)
+
+Al seleccionar una de las áreas de trabajo podremos ver la lista de informes con la opción de visualizarlos
 
 ![usuario1](Media/Usuario%20Comun/informes%20Usuario%20Comun.PNG)
 
 Si pulsamos en el botón de la columna *Acciones* vamos a ver el informe.
 
-![usuario1](Media/Informes/Informe%20Embedded.PNG)
+![usuario1](Media/Usuario%20Comun/Informe%20Embedded%20Usuario%20Comun.PNG)
 
 Los datos que vamos a visualizar van a variar dependiendo de la asignación que el usuario administrador haya creado. 
 
