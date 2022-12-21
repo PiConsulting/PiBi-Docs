@@ -24,7 +24,7 @@ En los pasos siguientes vamos a ver como registrar una App en Azure Active Direc
 9. Luego, simplemente completamos la descripción a nuestro secreto, ingresamos un tiempo de caducidad y pulsamos en *Agregar*.  
 ![app7](Media/App%20registration/datos%20secreto.PNG)
 10. En este momento vamos a copiar el contenido del campo valor. Este se va a ver mientras permanezcamos en la página, una vez que cerremos o cambiemos no lo volveremos a ver, por lo que es muy importante que guardemos este valor para utilizarlo como *Secret Key* en la configuración de PiBi:  
-![app8](Media/App%20registration/app%20id.PNG)
+![app8](Media/App%20registration/secret%20key.PNG)
 11. Para poder acceder a informes de Power BI con orígenes de *Azure Analysis Services* es necesario contar con el valor del campo ObjectId. Este valor lo copiamos ingresando en *Managed application in local directory* 
 ![app9](Media/App%20registration/objectId1.png)
 
