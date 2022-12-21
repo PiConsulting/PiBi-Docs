@@ -6,11 +6,17 @@ nav_order: 6
 
 # ¿Qué informes muestra PiBi y cómo sincroniza los cambios de Power BI? 
 
-La lista de informes que muestra PiBi son importados desde el grupo de trabajo de Power BI al cual accedemos con el conector configurado. 
+
+
+La lista de informes que muestra PiBi son importados desde los grupos de trabajo de Power BI al cual accedemos con el conector configurado. Por ello al ingresar a la sección de informes podemos ver las áreas de trabajo que fueron sincronizadas.
+
+![informes1](Media/Informes/workspaces.PNG)
+
+Al seleccionar una de las áreas de trabajo podemos ver los informes correspondientes.
 
 ![informes1](Media/Informes/Informes.PNG)
 
-Estos informes son sincronizados dos veces al día. PiBi se conecta automáticamente al grupo de trabajo de Power BI y actualiza los informes de su base de datos con los cambios realizados por el equipo de Power BI. 
+Estos informes son sincronizados dos veces al día. PiBi se conecta automáticamente y actualiza los informes de su base de datos con los cambios realizados por el equipo de Power BI. 
 
 Además, como usuario administrador vamos a poder sincronizar los informes de forma manual, desde la sección de *Conectores*, pulsando en *Sincronizar Informes*. 
 
@@ -37,9 +43,4 @@ La segunda acción que podemos realizar es consultar y modificar las asignacione
 De esta manera accedemos a las asignaciones de filtros y roles de seguridad que tiene un informe y podemos modificarlas.
 
 ![informes6](Media/Informes/asignaciones%20de%20un%20informe.png)
-
-
-
-
-
 
