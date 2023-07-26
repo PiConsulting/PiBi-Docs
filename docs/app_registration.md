@@ -46,6 +46,4 @@ En nuestro lo realizamos con un usuario común y por ello vemos la opción desac
 ![app16](Media/App%20registration/PBI%20service%20principal.png)
 18. Tengamos en cuenta que para que poder realizar esto, anteriormente se tiene que habilitar el servicio de autenticación por Api en el portal de Azure. En el siguiente enlace se describe como llevar a cabo esto, [Enable service principal authentication for read-only admin APIs](https://docs.microsoft.com/en-us/power-bi/admin/read-only-apis-service-principal-authentication).
 
-Se puede obtener más información ingresando a: 
-
-[Inicio rápido: registrar una aplicación en la plataforma de identidad de Microsoft | Documentos de Microsoft](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app?source=docs)
+Se puede obtener más información ingresando a: [Inicio rápido: registrar una aplicación en la plataforma de identidad de Microsoft | Documentos de Microsoft](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app?source=docs)
