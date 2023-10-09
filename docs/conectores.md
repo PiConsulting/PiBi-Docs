@@ -29,3 +29,13 @@ Cuando pulsemos en *Sincronizar Informes*, PiBi buscará los informes en las ár
 ![conectores3](Media/Conectores/conectores3.png)
 
 Además, PiBi cuenta con dos sincronizaciones automáticas por día las cuales mantienen actualizados los informes. 
+
+# Cambiar conector existente
+
+Puede ocurrir que por vencimiento de una key o cambios en nuestra organización tengamos que cambiar el conector de PiBi. En este escenario es **muy importante** hacer el cambio en un orden determinado puesto que si configuramos un conector sin ningún acceso en PowerBi, la sincronización de PiBi resolverá que hemos eliminado workspaces y dejaremos de ver asignaciones.
+**¿Cómo lo hacemos correctamente?**
+1. Registrar nueva App en Azure o Service Principal para la conexión con los permisos como nos guía la documentación.
+2. Ingresar a Power Bi Service para agregar la aplicación registrada como Administrador de las Áreas de Trabajo que teníamos configuradas.
+3. Ingresar a PiBi y cambiar los valores en menú Conectores.
+4. Sincronizar informes en menú de Conectores.
+Tengamos presente que no hacer este orden exacto puede provocar la pérdida de asignaciones puesto que si sincronizamos un conector que no tiene permisos en Áreas de Trabajo, asumirá que las quitamos y no queremos verlas.
