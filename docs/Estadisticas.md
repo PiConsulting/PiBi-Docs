@@ -8,6 +8,9 @@ nav_order: 14
 
 Las estadísticas de PiBi contienen varios datos en esta pantalla.
 
+![Estadísticas](Media/Estadisticas/estadisticas.png)
+
+
 Las primeras 2 pantallas que vemos dentro de la sección nos muestran el número total de usuarios y el número total de informes que poseemos.
 
 ![Estadísticas](Media/Estadisticas/cantidadUsuarioInformes.png)
