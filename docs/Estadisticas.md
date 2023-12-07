@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Estadísticas"
-nav_order: 14
+nav_order: 12
 ---
 
 # ¿Cuales son las estadísticas que tenemos en PiBi? 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Known Issues"
-nav_order: 13
+nav_order: 14
 ---
 
 # ¿Qué problemas conocidos tenemos en PiBi? 
