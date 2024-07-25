@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Usuarios"
+title: "Política Privacidad"
 nav_order: 15
 ---
 
