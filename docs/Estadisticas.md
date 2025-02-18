@@ -11,7 +11,7 @@ Las estadísticas de PiBi contienen varios datos en esta pantalla.
 ![Estadísticas](Media/Estadisticas/estadisticas.png)
 
 
-Las primeras 2 pantallas que vemos dentro de la sección nos muestran el número total de usuarios y el número total de informes que poseemos.
+Las primeras 2 pantallas que vemos dentro de la sección nos muestran el número total de usuarios y el número total de informes que poseemos. Ademas vamos a tener un botón llamado "Exportar Datos" que permite exportar en csv datos referidos al uso de la plataforma.
 
 ![Estadísticas](Media/Estadisticas/cantidadUsuarioInformes.png)
 
