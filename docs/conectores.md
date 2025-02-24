@@ -28,6 +28,7 @@ Cuando pulsemos en *Sincronizar Informes*, PiBi buscará los informes en las ár
 
 ![conectores3](Media/Conectores/conectores3.png)
 
+![conectores4](Media/Conectores/conectores4.png)
 Además, PiBi cuenta con dos sincronizaciones automáticas por día las cuales mantienen actualizados los informes. 
 
 # Cambiar conector existente

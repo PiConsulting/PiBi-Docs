@@ -20,7 +20,7 @@ Completamos los datos de registro y pulsamos en el botón CREAR.
 
 Para registrarnos de forma automática con Google tenemos que pulsar en el botón GOOGLE. 
 
-![ingresar3](Media/Ingresar/ingresar3.png) 
+![ingresar3](Media/Ingresar/ingresar1.png) 
 
 Google nos muestra las opciones que tenemos en el dispositivo. Si no tenemos ninguna debemos ingresar una cuenta GMAIL. 
 
@@ -30,7 +30,7 @@ Google nos muestra las opciones que tenemos en el dispositivo. Si no tenemos nin
 
 Para registrarnos de forma automática con Microsoft tenemos que pulsar en el botón MICROSOFT. 
 
-![ingresar5](Media/Ingresar/ingresar5.png) 
+![ingresar5](Media/Ingresar/ingresar1.png) 
 
 Microsoft nos muestra las opciones que tenemos en el dispositivo. 
 
@@ -44,11 +44,11 @@ Tenemos diferentes métodos para ingresar a PiBi dependiendo cómo nos registram
 
 Si nos registramos con un usuario y contraseña tenemos que ingresar esos datos y pulsar en el botón INICIAR SESIÓN. 
 
-![ingresar7](Media/Ingresar/ingresar7.png)  
+![ingresar7](Media/Ingresar/ingresar1.png)  
 
 Si nuestro registro fue a través de Google, tenemos que pulsar en el botón GOOGLE y seleccionar la cuenta con la que nos registramos. 
 
-![ingresar8](Media/Ingresar/ingresar8.png) 
+![ingresar8](Media/Ingresar/ingresar4.png) 
 
 Si nuestro registro fue a través de Microsoft, tenemos que hacer clic en el botón MICROSOFT y seleccionar la cuenta con la que nos registramos. 
 
