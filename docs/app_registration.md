@@ -15,7 +15,7 @@ En los pasos siguientes vamos a ver como registrar una App en Azure Active Direc
 ![app2](Media/App%20registration/nueva%20app.PNG)
 5. Definimos un nombre a la aplicación. Recordemos que este será el nombre que se muestra al momento de pedir permisos de acceso a nuestra información básica, por lo que tenemos que ingresar un nombre significativo y acorde a la empresa. También en este paso tenemos la posibilidad de seleccionar quiénes se podrán autenticar a través de esta aplicación. Una vez completado pulsamos en *Registrar*.  
 ![app3](Media/App%20registration/Registrar%20app.PNG)
-6. En este momento ya podemos ver el *Id de la aplicación* (Copiar y conservar este valor).  
+6. En este momento ya podemos ver el *Id de la aplicación* y el *Id del Directorio (Tenant Id)* (Copiar y conservar los valores).  
 ![app4](Media/App%20registration/app%20id.PNG)
 7. El próximo paso es generar la *Secret Key*. Para eso, ubicamos la sección de *Credenciales de cliente*, y pulsamos en Agregar un certificado o secreto. Tengamos en cuenta que este paso es necesario para configurar la conexión con *Service Principal*. 
 ![app5](Media/App%20registration/agregar%20secreto.PNG)
@@ -46,4 +46,4 @@ En nuestro lo realizamos con un usuario común y por ello vemos la opción desac
 ![app16](Media/App%20registration/PBI%20service%20principal.png)
 18. Tengamos en cuenta que para que poder realizar esto, anteriormente se tiene que habilitar el servicio de autenticación por Api en el portal de Azure. En el siguiente enlace se describe como llevar a cabo esto, [Enable service principal authentication for read-only admin APIs](https://docs.microsoft.com/en-us/power-bi/admin/read-only-apis-service-principal-authentication).
 
-Se puede obtener más información ingresando a: [Inicio rápido: registrar una aplicación en la plataforma de identidad de Microsoft | Documentos de Microsoft](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app?source=docs)
+Se puede obtener más información ingresando a: [Inicio rápido: registrar una aplicación en la plataforma de identidad de Microsoft](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app?source=docs)
