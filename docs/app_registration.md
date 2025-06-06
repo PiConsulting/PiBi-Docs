@@ -44,6 +44,6 @@ En nuestro lo realizamos con un usuario común y por ello vemos la opción desac
 ![app15](Media/App%20registration/PBI%20embed%20content.png)
 17. Para el caso de conectarnos a Power BI por medio de un Service Principal necesitamos realizar una configuración adicional. Tenemos que ingresar a *Perfil, Configuración, Portal de Administración* y en la ventana que nos aparece habilitar el *“allow service principals to use Power BI APIs”*.  
 ![app16](Media/App%20registration/PBI%20service%20principal.png)
-18. Tengamos en cuenta que para que poder realizar esto, anteriormente se tiene que habilitar el servicio de autenticación por Api en el portal de Azure. En el siguiente enlace se describe como llevar a cabo esto, [Enable service principal authentication for read-only admin APIs](https://docs.microsoft.com/en-us/power-bi/admin/read-only-apis-service-principal-authentication).
+18. Tengamos en cuenta que para que poder realizar esto, anteriormente se tiene que habilitar el servicio de autenticación por Api en el portal de Azure. En el siguiente enlace se describe como llevar a cabo esto, [Enable service principal authentication for read-only admin APIs](https://learn.microsoft.com/es-es/fabric/admin/enable-service-principal-admin-apis).
 
-Se puede obtener más información ingresando a: [Inicio rápido: registrar una aplicación en la plataforma de identidad de Microsoft](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app?source=docs)
+Se puede obtener más información ingresando a: [Inicio rápido: registrar una aplicación en la plataforma de identidad de Microsoft](https://learn.microsoft.com/es-es/entra/identity-platform/quickstart-register-app?source=docs)

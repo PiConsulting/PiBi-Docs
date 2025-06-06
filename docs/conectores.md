@@ -54,6 +54,10 @@ Con dichos permisos los informes que estén en una área de trabajo sincronizada
 
 # Utilizar PiBi con origenes Power Bi Semantic Model
 
-Al igual que con Analysis Services, PiBi puede trabajar con live connection de un informe conectado a un Semantic Model. Para ello, vamos a necesitar que nuestro Service Principal tenga permisos de Lectura sobre el Modelo Semántico original. Esto quiere decir que si tenemos el informe en un área que PiBi puede visualizar pero, el Modelo Semántico esta en un área que PiBi no tiene acceso. PiBi solo podrá mostrar datos si damos permisos al modelo semántico. Para conocer más sobre donde esta y como funciona, podemos leer la doc de Microsoft que lo explica muy bien: https://learn.microsoft.com/en-us/power-bi/connect-data/service-datasets-manage-access-permissions
+Al igual que con Analysis Services, PiBi puede trabajar con live connection de un informe conectado a un Semantic Model. Para ello, vamos a necesitar que nuestro Service Principal tenga permisos administrativos sobre el Modelo Semántico original. Esto quiere decir que si tenemos el informe en un área que PiBi puede visualizar pero, el Modelo Semántico esta en un área que PiBi no tiene acceso. PiBi solo podrá mostrar datos si damos permisos al modelo semántico. Para conocer más sobre donde esta y como funciona, podemos [leer la doc de Microsoft que lo explica muy bien.](https://learn.microsoft.com/en-us/power-bi/connect-data/service-datasets-manage-access-permissions)
 
 Consideren que los permisos directos solo se entregan a Grupos de Seguridad y Usuarios. Entonces si queremos entregarlo a un Service Principal, deberíamos incorporarlo a un Grupo de seguridad primero.
+
+# Utilizar PiBi con conexión Power Bi Direct Lake.
+
+Para trabajar con la conexión Direct Lake en Fabric, es necesario delimitar una *Fixed Identity* en nuestro modelo semántico de Direct Lake asociado al tablero. Para configurar Fixed Identity, siga [ésta documentación oficial de Microsoft](https://learn.microsoft.com/es-es/fabric/fundamentals/direct-lake-fixed-identity).
