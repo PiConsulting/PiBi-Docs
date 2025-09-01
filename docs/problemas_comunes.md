@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Problemas Comunes"
-nav_order: 13
+nav_order: 14
 ---
 
 # ¿Qué problemas podemos encontrar al ver un informe? 

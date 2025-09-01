@@ -57,3 +57,5 @@ Si nuestro registro fue a través de Microsoft, tenemos que hacer clic en el bot
 Al finalizar el inicio de sesión por cualquiera de estos métodos ingresamos a PiBi 
 
 ![ingresar10](Media/Ingresar/ingresar10.png) 
+
+**NOTA** En caso de que se encuentro habilitado el MFA para el Inicio de Sesión con Usuario y Contraseña, se le enviará un código OTP (One-Time Password), el cual deberá ingresar para poder acceder a la plataforma.
